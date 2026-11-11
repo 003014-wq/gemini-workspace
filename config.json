@@ -1,0 +1,9 @@
+{
+  "system_name": "Power Load Analyzer v1.0",
+  "emission_factor_kg_per_kwh": 0.495,
+  "alert_threshold_mw": 35000,
+  "supported_renewable_types": [
+    "solar",
+    "wind"
+  ]
+}
